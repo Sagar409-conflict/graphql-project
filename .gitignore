@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+
+//Custome Files to be ingnored by a Developer
+rsa
+rsa.pub
